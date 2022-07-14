@@ -1,4 +1,4 @@
-# PathViz - Graph Path Visualizer
+# MAZER - Graph Path Visualizer
 # PATH FINDING VISUALIZER
 
 An easy to use Interactive Graph Path visualizer with batteries included to implement your own Algorithm Visualization.
